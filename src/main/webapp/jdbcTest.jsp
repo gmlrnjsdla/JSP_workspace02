@@ -23,7 +23,6 @@
 			out.println("연결성공!!!");
 			out.println(connection);
 		} 
-		
 		catch(Exception e){	
 			out.println("연결실패!!!");
 		} 
